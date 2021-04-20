@@ -1,0 +1,2053 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.572; Version 2004; 64bit' Language: 'ko' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/JeonInJae/4thGit/Games/New Unity Project (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60377
+Successfully changed project path to: D:/JeonInJae/4thGit/Games/New Unity Project (1)
+D:/JeonInJae/4thGit/Games/New Unity Project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/JeonInJae/4thGit/Games/New Unity Project (1)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   NVIDIA
+    VRAM:     1977 MB
+    Driver:   26.21.14.3200
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000876 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.2 MB.
+System memory in use after: 91.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 2.533900 ms (FindLiveObjects: 0.358700 ms CreateObjectMapping: 0.193000 ms MarkObjects: 1.930800 ms  DeleteObjects: 0.049600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcc68737208a1d7a8581e190ec11b99') in 0.007864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.859365 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(0c3d32ac43cddba4e870e9b70dd84a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(0c3d32ac43cddba4e870e9b70dd84a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9a4b8c4043696ca865e084823e95a7') in 0.008032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.443316 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(7efd74800f0e488489819a0345dc6a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(7efd74800f0e488489819a0345dc6a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966b129633c367028334677948ad550c') in 0.007730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.287915 seconds.
+  path: Assets/Sprites/background.jpg
+  artifactKey: Guid(4ca490706c9eff54f84b0adb8bc0a6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/background.jpg using Guid(4ca490706c9eff54f84b0adb8bc0a6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711419d9d27cca4209d1d74de6941940') in 0.085342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Sprites/bird_spritesheet.png
+  artifactKey: Guid(bb15af3eb39ea314498cccf88d9933d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bird_spritesheet.png using Guid(bb15af3eb39ea314498cccf88d9933d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f642654cf306eff29c7f4a64a7cf24e') in 0.013262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Sprites/ground.png
+  artifactKey: Guid(e584f00e080bf5b4988145ee70317bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ground.png using Guid(e584f00e080bf5b4988145ee70317bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d118c63a02dfcca7fb36eb6d9a4a160') in 0.018910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Sprites/pipe.png
+  artifactKey: Guid(e393f70e21f1c75488abb2ed8b1feafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pipe.png using Guid(e393f70e21f1c75488abb2ed8b1feafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03428fb1737d700e5bebaae0b2791d66') in 0.011372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.002890 seconds.
+  path: Assets/Sprites/bird_spritesheet.png
+  artifactKey: Guid(bb15af3eb39ea314498cccf88d9933d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bird_spritesheet.png using Guid(bb15af3eb39ea314498cccf88d9933d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db2b1321e92216f3b121c80da685778') in 0.014913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 86.013701 seconds.
+  path: Assets/Sprites/bird_spritesheet.png
+  artifactKey: Guid(bb15af3eb39ea314498cccf88d9933d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bird_spritesheet.png using Guid(bb15af3eb39ea314498cccf88d9933d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b836d222cd6e4ae10adcd377495ac705') in 0.036045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 110.634663 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@2x.png
+  artifactKey: Guid(2f12c9758dad4e34ea8bc886f1fdb0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@2x.png using Guid(2f12c9758dad4e34ea8bc886f1fdb0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '632f52b60139e1cf05f19605770729c5') in 0.014259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_playhead.png
+  artifactKey: Guid(9ea72647c24be493ba6f15a9cd2a24ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_playhead.png using Guid(9ea72647c24be493ba6f15a9cd2a24ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab07931e13a9c926f8c40b43ca9bc31a') in 0.017209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@2x.png
+  artifactKey: Guid(ef9977ed07c438845a52c577f4ffcc3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@2x.png using Guid(ef9977ed07c438845a52c577f4ffcc3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531d7e7c79fd52b7139703e8acb76da3') in 0.017104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@3x.png
+  artifactKey: Guid(3e6e6fbbd946d0541923f45f4eaa2cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@3x.png using Guid(3e6e6fbbd946d0541923f45f4eaa2cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df935440d195266c911ed561b4892ff') in 0.017401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@4x.png
+  artifactKey: Guid(554a30a45860f494ca38586c54b7e5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@4x.png using Guid(554a30a45860f494ca38586c54b7e5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f63be1d246629510e790a2344f75569') in 0.017362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@3x.png
+  artifactKey: Guid(89930da27dfbbc64ba1f3baf0ae416bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@3x.png using Guid(89930da27dfbbc64ba1f3baf0ae416bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab6fe1b29f01167a34c66e45ebaadd6') in 0.017135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@4x.png
+  artifactKey: Guid(2223b0a570b66ee42b3e0a79f0789b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@4x.png using Guid(2223b0a570b66ee42b3e0a79f0789b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd2ef7c30a278d9b12c34a342d41959') in 0.009508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded.png
+  artifactKey: Guid(a20f7223e2252fc4d813fc92d0f3a614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded.png using Guid(a20f7223e2252fc4d813fc92d0f3a614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa41a23392817ae1771db725c16ccd3') in 0.019415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@4x.png
+  artifactKey: Guid(f082e69f825d0aa44b687e592731c0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@4x.png using Guid(f082e69f825d0aa44b687e592731c0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d27e322baaae309306671ae7f7ca70e') in 0.017596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@2x.png
+  artifactKey: Guid(cfe99a1afb609b4488d6fc9224a62f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@2x.png using Guid(cfe99a1afb609b4488d6fc9224a62f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7485d17ac99fca3fc19e93237ec0e8b9') in 0.008413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@2x.png
+  artifactKey: Guid(f3940f64802892746b2ec336d3b0c5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@2x.png using Guid(f3940f64802892746b2ec336d3b0c5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a954fdcf4c60614b513194a80670db1') in 0.008422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentBrokenPro.png
+  artifactKey: Guid(3f0215e89d05b544d907d3a7d34fab63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentBrokenPro.png using Guid(3f0215e89d05b544d907d3a7d34fab63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9dbebe8c424de88ae92bdc0ff89e460') in 0.008361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush.png
+  artifactKey: Guid(9d026c034cfd40746a436496efe2dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush.png using Guid(9d026c034cfd40746a436496efe2dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89dc5f01364349df7c136708dddccc3e') in 0.008293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentLinearPro.png
+  artifactKey: Guid(cafc16189f045f445bad6f5eb9e13541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentLinearPro.png using Guid(cafc16189f045f445bad6f5eb9e13541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7754f81c496240338097573a2b1a9109') in 0.007771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@3x.png
+  artifactKey: Guid(71d8b2e508f1d9947ba51013600a5eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@3x.png using Guid(71d8b2e508f1d9947ba51013600a5eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd328dfd79447f072f9c22775a86710') in 0.007958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@2x.png
+  artifactKey: Guid(45c995b76b893fd4b9e8d3e0f9f6463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@2x.png using Guid(45c995b76b893fd4b9e8d3e0f9f6463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fa8ecd3904b2c39b48399e0db1d89c') in 0.009947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool.png
+  artifactKey: Guid(1e7c59239d2a59140b34f39ea6d4d44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool.png using Guid(1e7c59239d2a59140b34f39ea6d4d44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653a52af902b05d896f4089d1d0e7c44') in 0.008671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush.png
+  artifactKey: Guid(bf734b7184825b040837040cb93a8dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush.png using Guid(bf734b7184825b040837040cb93a8dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b381064d7c36d33ce2b8eefb10f51855') in 0.007516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@3x.png
+  artifactKey: Guid(7764b2bf79a49894e8ea10f3d661a4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@3x.png using Guid(7764b2bf79a49894e8ea10f3d661a4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6558680dd4096f083e3491cd0a8ba14') in 0.009156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode.png
+  artifactKey: Guid(ca778bc7303b24948abf3e907abbf2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode.png using Guid(ca778bc7303b24948abf3e907abbf2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e860ec8375ef85f6271c7f08661db525') in 0.008058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Textures/Sprite Shape Fill.png
+  artifactKey: Guid(b281b91a70a624a0da1c43adc1c30c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Textures/Sprite Shape Fill.png using Guid(b281b91a70a624a0da1c43adc1c30c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9847d0f5bca80a26a39dbd2d63be98fe') in 0.009498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool.png
+  artifactKey: Guid(7342ee656932e31489ea62e64e012645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool.png using Guid(7342ee656932e31489ea62e64e012645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc18e693fc3d91f4f6de054ea5a83713') in 0.007948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_rightrange.png
+  artifactKey: Guid(ee5df01235032491c8b180741ea820fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_rightrange.png using Guid(ee5df01235032491c8b180741ea820fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c58a162cbc5093d8816840f81502ed4') in 0.008575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@2x.png
+  artifactKey: Guid(bb668641abe10a64891e26613cf530ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@2x.png using Guid(bb668641abe10a64891e26613cf530ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63bdf2d77d79795e78f192e1ace707e') in 0.007954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@4x.png
+  artifactKey: Guid(f469f8253737d534ca7809ae6f0d2422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Hidded@4x.png using Guid(f469f8253737d534ca7809ae6f0d2422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e06ee6c9c83a14fa86d458e3c03a307') in 0.008912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentBroken.png
+  artifactKey: Guid(b370d25fdf6f8914287e27c0c3dede6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentBroken.png using Guid(b370d25fdf6f8914287e27c0c3dede6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c329faaed6bb49d59cbd770549eece6') in 0.008767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentContinuous.png
+  artifactKey: Guid(229e750703f3e824ca71ddd16a5e36be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentContinuous.png using Guid(229e750703f3e824ca71ddd16a5e36be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3c8b7992a91a6a4f4f827afb0c686b') in 0.008139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png
+  artifactKey: Guid(311925a002f4447b3a28927169b83ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png using Guid(311925a002f4447b3a28927169b83ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df67dd62c844106e5e1e45f2f68185a2') in 0.008518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@3x.png
+  artifactKey: Guid(4d2d8fb4fc2041441980b4ec253532b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@3x.png using Guid(4d2d8fb4fc2041441980b4ec253532b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8de26efc9e72915c5b825a691aae3a') in 0.008191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@3x.png
+  artifactKey: Guid(ea833d779996e3244b3b567764be9cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@3x.png using Guid(ea833d779996e3244b3b567764be9cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249e3bb6acb7f1043c03d633a6d9285c') in 0.007968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@2x.png
+  artifactKey: Guid(3c84cd9c7ddd51c4b959d02c41aced07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@2x.png using Guid(3c84cd9c7ddd51c4b959d02c41aced07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a9c12c9159b6ea3347e76933e06040') in 0.007350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentContinuousPro.png
+  artifactKey: Guid(8d4a2ded892e27742bb6d4d263639dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentContinuousPro.png using Guid(8d4a2ded892e27742bb6d4d263639dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391fc657d44ae3dea6fcadaf677985b9') in 0.008032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@4x.png
+  artifactKey: Guid(216c53aef79eaaf40a1800cc5e542dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@4x.png using Guid(216c53aef79eaaf40a1800cc5e542dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab5c9590693cc6e385b2881a3d65ab3') in 0.008411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Textures/Sprite Shape Corner.png
+  artifactKey: Guid(608e61deb05c54660bebf5a4dd2ee02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Textures/Sprite Shape Corner.png using Guid(608e61deb05c54660bebf5a4dd2ee02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ab6c4bb1b00f948e22c3ecf041e60c') in 0.008865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@2x.png
+  artifactKey: Guid(17d3bf7425a0748489ce3633e38652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@2x.png using Guid(17d3bf7425a0748489ce3633e38652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1a3fe4c1d286f578bacabfcb198ab4') in 0.008263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@3x.png
+  artifactKey: Guid(ec23e33668eecff4aaec16f735dcc204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@3x.png using Guid(ec23e33668eecff4aaec16f735dcc204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5e3784d0105b885c476ca14e9dfc04') in 0.008127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode.png
+  artifactKey: Guid(2ad84ec7182471b4d8c44de568e22df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode.png using Guid(2ad84ec7182471b4d8c44de568e22df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d2ff6f653bbb6d36feb49481100619') in 0.008166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/SpriteShapeEdge.png
+  artifactKey: Guid(0ae2b74b1edd14bb18dd7b65ae916a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/SpriteShapeEdge.png using Guid(0ae2b74b1edd14bb18dd7b65ae916a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1d0347aea31e17b658bf18cfa4d805') in 0.009092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+  artifactKey: Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png using Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb453bf91c0c93998e56a67b63700fa7') in 0.009512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png
+  artifactKey: Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png using Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fce20d756e78bb0d52db7bf4957d901') in 0.008190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentLinear.png
+  artifactKey: Guid(a728d9332cba5f448a36350199dc573b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentLinear.png using Guid(a728d9332cba5f448a36350199dc573b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb5416a26df4a7628a35fa487cb31f8') in 0.008854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@4x.png
+  artifactKey: Guid(21d43e7114c758c49886cb9fc604dd66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split_Edge@4x.png using Guid(21d43e7114c758c49886cb9fc604dd66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4749dd6d734d698b15a5dc2a47f007') in 0.007927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@3x.png
+  artifactKey: Guid(8004118ba4145a74e823fedaa37acf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@3x.png using Guid(8004118ba4145a74e823fedaa37acf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa173c2504308887e08daeb1a98797ae') in 0.008374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@4x.png
+  artifactKey: Guid(8272ea7c59da847458432e7c88bf7766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split_Edge@4x.png using Guid(8272ea7c59da847458432e7c88bf7766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220be714b848d82de036a5590afe8a86') in 0.008125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@2x.png
+  artifactKey: Guid(ff2aa9ebc8aee604caa5f8459ac4ae43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@2x.png using Guid(ff2aa9ebc8aee604caa5f8459ac4ae43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86d7834ac7bf3edab4d880c6ca7f3ae') in 0.008253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.438080 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@3x.png
+  artifactKey: Guid(3279d541bf75c624cbdd7179eb5559a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@3x.png using Guid(3279d541bf75c624cbdd7179eb5559a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e9f026daab99a6b113a3836b60c5d10') in 0.007286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider.png
+  artifactKey: Guid(96b029a4248c85a4e8de2aa81fc0b60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider.png using Guid(96b029a4248c85a4e8de2aa81fc0b60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4299962414e4973676aa75cf377f996') in 0.008426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@4x.png
+  artifactKey: Guid(3dd5e5c693a816e4f96b869f6465955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@4x.png using Guid(3dd5e5c693a816e4f96b869f6465955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913a82f1617960f91e27f581e94254a6') in 0.008367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@4x.png
+  artifactKey: Guid(4e494ad3b858ecf4fab63aae9075d43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@4x.png using Guid(4e494ad3b858ecf4fab63aae9075d43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468c8093623cca936ce3b8c733cdaf9e') in 0.008013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider.png
+  artifactKey: Guid(aa91af43c72989f44bf937fd28243bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider.png using Guid(aa91af43c72989f44bf937fd28243bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d691708742e8e930ccacfac90a9935') in 0.008258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@2x.png
+  artifactKey: Guid(6306a4776b130304bba7a139fc1d2bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@2x.png using Guid(6306a4776b130304bba7a139fc1d2bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887f575a2316e74ae0ae844b2293236e') in 0.008090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@3x.png
+  artifactKey: Guid(ec8214d7d416a8746bb342b71e8e4269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Slider@3x.png using Guid(ec8214d7d416a8746bb342b71e8e4269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e76e726745931ec4c8b5557c712e56f') in 0.007824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@4x.png
+  artifactKey: Guid(48464cd53bb3c604f999e7d3f15e8d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@4x.png using Guid(48464cd53bb3c604f999e7d3f15e8d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b9ea5f7661eea20028516c54e1cc68') in 0.009569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@4x.png
+  artifactKey: Guid(ac47ed8ccc79cf04dae198b9cc5b3a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@4x.png using Guid(ac47ed8ccc79cf04dae198b9cc5b3a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c94b40853685438ec6d39b122d069c') in 0.008056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@3x.png
+  artifactKey: Guid(af73899d5803d99448134360f184f348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@3x.png using Guid(af73899d5803d99448134360f184f348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1dcdcefbb8963d41ed91d0671b97bf') in 0.007242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@2x.png
+  artifactKey: Guid(7f64a6e091143c0458506b559165cf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Slider@2x.png using Guid(7f64a6e091143c0458506b559165cf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0367e9e7d987381435b5cd2ad19c1cb8') in 0.007756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.837653 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(4ec1387516ca24d46b99fecdf3d3ade0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(4ec1387516ca24d46b99fecdf3d3ade0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b18d19b90021d0a6e9b78e9f10b939') in 0.004766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.285235 seconds.
+  path: Assets/Animations/Bird Animator.controller
+  artifactKey: Guid(ce02e34e0395fd143a780b05596af386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bird Animator.controller using Guid(ce02e34e0395fd143a780b05596af386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca4631e579ed59c6f628066bad5140b2') in 0.007875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.455526 seconds.
+  path: Assets/Animations/Bird Animator Controller.controller
+  artifactKey: Guid(ce02e34e0395fd143a780b05596af386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bird Animator Controller.controller using Guid(ce02e34e0395fd143a780b05596af386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f52a148724b26c6ace304b3338d68f') in 0.009004 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1880 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3255.
+Total: 2.411200 ms (FindLiveObjects: 0.270400 ms CreateObjectMapping: 0.094700 ms MarkObjects: 2.033300 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000497 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.9 MB.
+System memory in use after: 127.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3259.
+Total: 5.503300 ms (FindLiveObjects: 0.571700 ms CreateObjectMapping: 0.245900 ms MarkObjects: 4.659900 ms  DeleteObjects: 0.023600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.9 MB.
+System memory in use after: 127.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3262.
+Total: 2.362900 ms (FindLiveObjects: 0.221400 ms CreateObjectMapping: 0.085500 ms MarkObjects: 2.045000 ms  DeleteObjects: 0.010100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.9 MB.
+System memory in use after: 127.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3265.
+Total: 2.286600 ms (FindLiveObjects: 0.340500 ms CreateObjectMapping: 0.119300 ms MarkObjects: 1.814500 ms  DeleteObjects: 0.011600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000576 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.0 MB.
+System memory in use after: 127.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3268.
+Total: 2.318800 ms (FindLiveObjects: 0.241000 ms CreateObjectMapping: 0.086900 ms MarkObjects: 1.976400 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.0 MB.
+System memory in use after: 127.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3271.
+Total: 2.353100 ms (FindLiveObjects: 0.250300 ms CreateObjectMapping: 0.090200 ms MarkObjects: 1.999700 ms  DeleteObjects: 0.012300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.0 MB.
+System memory in use after: 127.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3274.
+Total: 2.354200 ms (FindLiveObjects: 0.299200 ms CreateObjectMapping: 0.104200 ms MarkObjects: 1.936400 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.722 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.1 MB.
+System memory in use after: 127.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3277.
+Total: 2.505300 ms (FindLiveObjects: 0.352900 ms CreateObjectMapping: 0.121900 ms MarkObjects: 2.017600 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000569 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.1 MB.
+System memory in use after: 127.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3280.
+Total: 2.513200 ms (FindLiveObjects: 0.311100 ms CreateObjectMapping: 0.109400 ms MarkObjects: 2.077400 ms  DeleteObjects: 0.014500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.3 MB.
+System memory in use after: 127.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3284.
+Total: 2.448300 ms (FindLiveObjects: 0.484700 ms CreateObjectMapping: 0.097800 ms MarkObjects: 1.853700 ms  DeleteObjects: 0.010800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000530 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.1 MB.
+System memory in use after: 127.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3287.
+Total: 2.315700 ms (FindLiveObjects: 0.259200 ms CreateObjectMapping: 0.098200 ms MarkObjects: 1.946000 ms  DeleteObjects: 0.011700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000786 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.3 MB.
+System memory in use after: 127.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3290.
+Total: 2.198500 ms (FindLiveObjects: 0.243800 ms CreateObjectMapping: 0.090200 ms MarkObjects: 1.851600 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001105 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.3 MB.
+System memory in use after: 127.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3293.
+Total: 2.237400 ms (FindLiveObjects: 0.225100 ms CreateObjectMapping: 0.082800 ms MarkObjects: 1.915000 ms  DeleteObjects: 0.013700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.3 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3296.
+Total: 2.331900 ms (FindLiveObjects: 0.255900 ms CreateObjectMapping: 0.095100 ms MarkObjects: 1.968300 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.3 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3299.
+Total: 2.597400 ms (FindLiveObjects: 0.272400 ms CreateObjectMapping: 0.104200 ms MarkObjects: 2.203700 ms  DeleteObjects: 0.016200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000564 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3302.
+Total: 2.296800 ms (FindLiveObjects: 0.249000 ms CreateObjectMapping: 0.079600 ms MarkObjects: 1.955300 ms  DeleteObjects: 0.012300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3305.
+Total: 2.504700 ms (FindLiveObjects: 0.387700 ms CreateObjectMapping: 0.128700 ms MarkObjects: 1.975000 ms  DeleteObjects: 0.012400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3308.
+Total: 2.591400 ms (FindLiveObjects: 0.249200 ms CreateObjectMapping: 0.090200 ms MarkObjects: 2.239900 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 2.591000 ms (FindLiveObjects: 0.439100 ms CreateObjectMapping: 0.117700 ms MarkObjects: 2.019500 ms  DeleteObjects: 0.013700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 2.311400 ms (FindLiveObjects: 0.359600 ms CreateObjectMapping: 0.130100 ms MarkObjects: 1.805600 ms  DeleteObjects: 0.014600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.724 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.4 MB.
+System memory in use after: 127.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 2.465200 ms (FindLiveObjects: 0.395200 ms CreateObjectMapping: 0.118700 ms MarkObjects: 1.938700 ms  DeleteObjects: 0.011600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.5 MB.
+System memory in use after: 127.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3320.
+Total: 2.266600 ms (FindLiveObjects: 0.257200 ms CreateObjectMapping: 0.083200 ms MarkObjects: 1.913100 ms  DeleteObjects: 0.012300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000839 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.5 MB.
+System memory in use after: 127.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3323.
+Total: 2.448400 ms (FindLiveObjects: 0.347800 ms CreateObjectMapping: 0.126100 ms MarkObjects: 1.960700 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000578 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3326.
+Total: 2.678000 ms (FindLiveObjects: 0.379200 ms CreateObjectMapping: 0.118900 ms MarkObjects: 2.167000 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000605 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3329.
+Total: 2.310200 ms (FindLiveObjects: 0.281200 ms CreateObjectMapping: 0.105400 ms MarkObjects: 1.911000 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.724 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3332.
+Total: 2.475600 ms (FindLiveObjects: 0.328400 ms CreateObjectMapping: 0.098200 ms MarkObjects: 2.036100 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000673 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3335.
+Total: 2.502400 ms (FindLiveObjects: 0.423200 ms CreateObjectMapping: 0.097600 ms MarkObjects: 1.969000 ms  DeleteObjects: 0.011600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3338.
+Total: 2.339900 ms (FindLiveObjects: 0.293000 ms CreateObjectMapping: 0.089800 ms MarkObjects: 1.944800 ms  DeleteObjects: 0.011700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000577 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3341.
+Total: 2.494000 ms (FindLiveObjects: 0.344000 ms CreateObjectMapping: 0.108000 ms MarkObjects: 2.029300 ms  DeleteObjects: 0.012100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3344.
+Total: 2.338300 ms (FindLiveObjects: 0.259700 ms CreateObjectMapping: 0.098600 ms MarkObjects: 1.968600 ms  DeleteObjects: 0.010900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3347.
+Total: 2.451300 ms (FindLiveObjects: 0.360600 ms CreateObjectMapping: 0.121000 ms MarkObjects: 1.956600 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3137.635227 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(14d358dd779175a4ca54e9a88b7a9f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(14d358dd779175a4ca54e9a88b7a9f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d97282ddf5066e0957627ff94becf23') in 0.006956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.829461 seconds.
+  path: Assets/Prefabs/Pipe.prefab
+  artifactKey: Guid(9dfdad55a04874b4aa3f3bad2d93818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipe.prefab using Guid(9dfdad55a04874b4aa3f3bad2d93818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+ -> (artifact id: 'c784d31e9da4900d42f5f779538baffa') in 0.054949 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000665 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3355.
+Total: 2.298100 ms (FindLiveObjects: 0.274900 ms CreateObjectMapping: 0.120600 ms MarkObjects: 1.889200 ms  DeleteObjects: 0.012800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3358.
+Total: 2.560600 ms (FindLiveObjects: 0.432400 ms CreateObjectMapping: 0.145200 ms MarkObjects: 1.969800 ms  DeleteObjects: 0.012300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000783 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.712 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3361.
+Total: 2.530300 ms (FindLiveObjects: 0.222700 ms CreateObjectMapping: 0.075400 ms MarkObjects: 2.220400 ms  DeleteObjects: 0.011300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3364.
+Total: 2.310600 ms (FindLiveObjects: 0.248500 ms CreateObjectMapping: 0.088400 ms MarkObjects: 1.953300 ms  DeleteObjects: 0.019500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000601 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.739 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3367.
+Total: 2.491700 ms (FindLiveObjects: 0.309200 ms CreateObjectMapping: 0.135400 ms MarkObjects: 2.034100 ms  DeleteObjects: 0.012400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3370.
+Total: 2.680400 ms (FindLiveObjects: 0.521800 ms CreateObjectMapping: 0.108900 ms MarkObjects: 2.035200 ms  DeleteObjects: 0.012700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3373.
+Total: 2.409200 ms (FindLiveObjects: 0.269800 ms CreateObjectMapping: 0.096700 ms MarkObjects: 2.030100 ms  DeleteObjects: 0.011900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3376.
+Total: 2.367100 ms (FindLiveObjects: 0.288000 ms CreateObjectMapping: 0.095600 ms MarkObjects: 1.971200 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000579 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3379.
+Total: 2.554100 ms (FindLiveObjects: 0.325200 ms CreateObjectMapping: 0.103100 ms MarkObjects: 2.111000 ms  DeleteObjects: 0.013700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000557 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.724 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3382.
+Total: 2.469000 ms (FindLiveObjects: 0.382300 ms CreateObjectMapping: 0.121600 ms MarkObjects: 1.952600 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3385.
+Total: 2.408300 ms (FindLiveObjects: 0.275100 ms CreateObjectMapping: 0.089900 ms MarkObjects: 2.029800 ms  DeleteObjects: 0.012700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000583 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.1 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3388.
+Total: 2.209200 ms (FindLiveObjects: 0.263400 ms CreateObjectMapping: 0.097800 ms MarkObjects: 1.836100 ms  DeleteObjects: 0.011100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.4 MB.
+System memory in use after: 128.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3391.
+Total: 2.658000 ms (FindLiveObjects: 0.295200 ms CreateObjectMapping: 0.102000 ms MarkObjects: 2.248200 ms  DeleteObjects: 0.011900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000611 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3394.
+Total: 2.469800 ms (FindLiveObjects: 0.277200 ms CreateObjectMapping: 0.101300 ms MarkObjects: 2.075200 ms  DeleteObjects: 0.014900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3397.
+Total: 5.857200 ms (FindLiveObjects: 0.558500 ms CreateObjectMapping: 0.245700 ms MarkObjects: 5.021000 ms  DeleteObjects: 0.029400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3400.
+Total: 2.776300 ms (FindLiveObjects: 0.306800 ms CreateObjectMapping: 0.107100 ms MarkObjects: 2.343900 ms  DeleteObjects: 0.017600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.4 MB.
+System memory in use after: 128.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3403.
+Total: 2.356500 ms (FindLiveObjects: 0.276300 ms CreateObjectMapping: 0.087200 ms MarkObjects: 1.980900 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3406.
+Total: 2.395500 ms (FindLiveObjects: 0.270600 ms CreateObjectMapping: 0.097400 ms MarkObjects: 2.015100 ms  DeleteObjects: 0.011900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to allocate new scene culling mask
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
+UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
+UnityEditor.PreviewScene:.ctor (string)
+UnityEditor.PreviewRenderUtility:.ctor ()
+UnityEditor.Texture3DPreview:InitPreviewUtility ()
+UnityEditor.Texture3DPreview:OnEnable ()
+
+[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.790 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3409.
+Total: 2.372800 ms (FindLiveObjects: 0.320900 ms CreateObjectMapping: 0.089100 ms MarkObjects: 1.949900 ms  DeleteObjects: 0.012200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
