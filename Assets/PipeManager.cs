@@ -9,7 +9,7 @@ public class PipeManager : MonoBehaviour
     List<GameObject> pipes = new List<GameObject>();
 
     float maxHeight = 2.7f;
-    float minHeight = -2.7f;
+    float minHeight = -0.44f;
     float horizontalSpacing = 8;
     float lastPipeXPosition = 0;
 
@@ -21,7 +21,12 @@ public class PipeManager : MonoBehaviour
         {
             pipes.Add(Instantiate(PREFAB_PIPE));
         }
-        for (int i = 0; i < numPipe; i++)
+
+        Reset();
+    }
+    public void Reset()
+    {
+        for (int i = 0; i < pipes.Count; i++)
         {
             lastPipeXPosition = 5 + horizontalSpacing * i;
             pipes[i].transform.position = new Vector3(lastPipeXPosition, Random.Range(minHeight, maxHeight), 0);
