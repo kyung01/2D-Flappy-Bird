@@ -327,12 +327,12 @@
 -r:"Library/Bee/artifacts/500b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/500b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/500b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Bird.cs"
-"Assets/CameraDirector.cs"
 "Assets/GameManager.cs"
-"Assets/GroundManager.cs"
-"Assets/Pipe.cs"
-"Assets/PipeManager.cs"
+"Assets/Scripts/Bird.cs"
+"Assets/Scripts/CameraDirector.cs"
+"Assets/Scripts/GroundManager.cs"
+"Assets/Scripts/Pipe.cs"
+"Assets/Scripts/PipeManager.cs"
 -langversion:8.0
 
 /deterministic
